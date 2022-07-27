@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lini234
 - 👀 I’m interested in Blockchain and Data Science
 - 🌱 I’m currently learning web development with Python
-- 💞️ I’m looking to collaborate on blockchain projrcts
+- 💞️ I’m looking to collaborate on projrcts
 - 📫 How to reach me -- oluwaini06@yahoo.com
 
 <!---
